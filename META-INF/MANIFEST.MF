@@ -930,3 +930,4 @@ Bundle-Activator: com.sun.jersey.server.osgi.Activator
 Eclipse-BuddyPolicy: registered
 Bundle-Localization: plugin
 Bundle-ActivationPolicy: lazy
+Eclipse-ExtensibleAPI: true
